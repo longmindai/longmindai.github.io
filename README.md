@@ -1,1 +1,1 @@
-# longmindai.github.io
+# [LongMind AI](longmindai.github.io)
